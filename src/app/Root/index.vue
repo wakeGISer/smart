@@ -1,0 +1,13 @@
+<template>
+  <div>
+    <router-view></router-view>
+  </div>
+</template>
+
+<script>
+  export default {
+    name: 'root'
+  }
+</script>
+
+<style src="./theme/style/bootstrap.css"></style>
